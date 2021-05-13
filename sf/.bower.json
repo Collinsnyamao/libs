@@ -1,0 +1,14 @@
+{
+  "name": "sf",
+  "homepage": "https://github.com/joeferner/node-sf",
+  "version": "0.1.9",
+  "_release": "0.1.9",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.9",
+    "commit": "9ce5e874afe09c9b867b879346591b02955e3e33"
+  },
+  "_source": "git://github.com/joeferner/node-sf.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/joeferner/node-sf.git"
+}

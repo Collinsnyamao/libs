@@ -1,0 +1,13 @@
+{
+  "name": "atmosphere-javascript",
+  "homepage": "https://github.com/Atmosphere/atmosphere-javascript",
+  "_release": "javascript-project-2.2.11",
+  "_resolution": {
+    "type": "tag",
+    "tag": "javascript-project-2.2.11",
+    "commit": "7bf459b6a873087b3f217e9500aa6717c177dd5f"
+  },
+  "_source": "git://github.com/Atmosphere/atmosphere-javascript.git",
+  "_target": "javascript-project-2.2.11",
+  "_originalSource": "git://github.com/Atmosphere/atmosphere-javascript.git"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cose-base",
+  "description": "Core module for compound spring embedder based layout styles",
+  "main": "cose-base.js",
+  "dependencies": {
+    "layout-base": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iVis-at-Bilkent/cose-base.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "layout"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/iVis-at-Bilkent/cose-base",
+  "version": "1.0.1",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "fc73baf2c3046847d1ef45f8fdb3fe2c287b5e7f"
+  },
+  "_source": "https://github.com/iVis-at-Bilkent/cose-base.git",
+  "_target": "^1.0.1",
+  "_originalSource": "cose-base",
+  "_direct": true
+}

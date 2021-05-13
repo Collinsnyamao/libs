@@ -1,0 +1,143 @@
+{
+  "_args": [
+    [
+      "ag-grid-community",
+      "/home/wolfking/Desktop/ag-grid-amd"
+    ]
+  ],
+  "_from": "ag-grid-community@latest",
+  "_hasShrinkwrap": false,
+  "_id": "ag-grid-community@23.2.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ag-grid-community",
+  "_nodeVersion": "10.16.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ag-grid-community_23.2.1_1592487187159_0.86322612798802"
+  },
+  "_npmUser": {
+    "email": "sean@thelandsmans.com",
+    "name": "seanlandsman"
+  },
+  "_npmVersion": "6.11.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ag-grid-community",
+    "raw": "ag-grid-community",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ag-grid-community/-/ag-grid-community-23.2.1.tgz",
+  "_shasum": "0cf2beb7ba2fcf66a4865e45faabdbea173d59b6",
+  "_shrinkwrap": null,
+  "_spec": "ag-grid-community",
+  "_where": "/home/wolfking/Desktop/ag-grid-amd",
+  "author": {
+    "email": "niall.crosby@ag-grid.com",
+    "name": "Niall Crosby"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not blackberry > 0",
+    "not ie <= 10",
+    "not ie_mob <= 11"
+  ],
+  "bugs": {
+    "url": "https://github.com/ag-grid/ag-grid/issues"
+  },
+  "dependencies": {},
+  "description": "Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components",
+  "devDependencies": {
+    "@ag-grid-community/all-modules": "~23.2.0",
+    "@ag-grid-community/client-side-row-model": "~23.2.0",
+    "@ag-grid-community/core": "~23.2.0",
+    "@ag-grid-community/csv-export": "~23.2.0",
+    "@ag-grid-community/infinite-row-model": "~23.2.0",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-header": "^2.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-tsd": "^0.1.0",
+    "gulp-typescript": "^5.0.0",
+    "merge2": "^1.2.0",
+    "rollup": "^1.21.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-replace": "^2.2.0",
+    "rollup-plugin-typescript2": "^0.24.3",
+    "typescript": "~3.6.0"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 836,
+    "integrity": "sha512-WHfDV7mFsd6eQJ5yOu26nnpnW7Gd02zcp9LHHfKQky8lfgTEo382qcja7MibHzB2f5vOCBdQnOPsWrbBNKRzhQ==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJe620TCRA9TVsSAnZWagAAqokP/AuCdWgU4enFvn6vab0t\n19gy0Oy58NFexi8sWq46z4RK+y4rqGnwTYOwGKhVhQKVMTZbcbDFowCMd8Zn\n6wAXhBfsawE4+FgvYgWmsa17BqJnX9JIbM6Hx6S/U6l5PeAnvOZHYqSK8/hg\nQL3ZuY3EY/uf8H+e5zfQdsqIBn6n4d5eYzSdIKKBmkMiuEXwcVnu1xmBHdP0\na4hzO1D1K1J0esgtZr/e5An8E84Hwc46f6hN0QX3AQshEs79esd6+3uy1mV2\n99irURqKbGNa/KbC3cfcgjm0qB3vo5Saryyajr9Q66ITAfJlHvW8h2exlfFH\nVXByAhX4htm3c28vQeqJFwi7irfcMe53far7KgGzGwvYbkmrzEYRoIUjc3W9\nSM/jtK7CTSH8rovmcrLKOuR4bYX57TGaLb7Tz8w4xzLCg5bA3cbZRrwKeIxj\nGnDoMRzUWwMisI3JKGhgCoPHf9DD/2FaEZiucu+mlS+fpqx9eNNhcPMRmBs2\n4I/FxqNGXcDtaVtWxEzvao3XdiDRwt+gxOZ208OgzNkjHPzhZ3ZzROO1k9oS\nB0XvyIudTvg6WT/eM6jP1eEdEcNF0gMD7PXTL58mBQvjZeQ2hoJMlK3KJOXZ\nfaTdb24RwWeKhMInF6HJ72fQqAfgp4Znug7g/9jdo/snSjHKXWLwWYFKeOeC\nAzuz\r\n=qbKO\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "0cf2beb7ba2fcf66a4865e45faabdbea173d59b6",
+    "tarball": "https://registry.npmjs.org/ag-grid-community/-/ag-grid-community-23.2.1.tgz",
+    "unpackedSize": 25147531
+  },
+  "homepage": "http://www.ag-grid.com/",
+  "jspm": {
+    "main": "jspm-main"
+  },
+  "keywords": [
+    "ag",
+    "ag-grid",
+    "angular",
+    "angular-component",
+    "angularjs",
+    "data-grid",
+    "data-table",
+    "datagrid",
+    "datatable",
+    "grid",
+    "react",
+    "react",
+    "react-component",
+    "reactjs",
+    "table",
+    "table"
+  ],
+  "license": "MIT",
+  "main": "./dist/ag-grid-community.cjs.js",
+  "maintainers": [
+    {
+      "name": "alberto.gutierrez",
+      "email": "alberto.gutierrez.campo@gmail.com"
+    },
+    {
+      "name": "ceolter",
+      "email": "niall.crosby@gmail.com"
+    },
+    {
+      "name": "rmc.software",
+      "email": "rmc.software.consultancy@gmail.com"
+    },
+    {
+      "name": "seanlandsman",
+      "email": "sean@thelandsmans.com"
+    }
+  ],
+  "name": "ag-grid-community",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ag-grid/ag-grid.git"
+  },
+  "scripts": {
+    "build": "gulp && npm run rollup && npm run hash",
+    "hash": "sh ../../scripts/hashDirectory.sh > .hash",
+    "rollup": "node build.js"
+  },
+  "types": "./main.d.ts",
+  "version": "23.2.1"
+}

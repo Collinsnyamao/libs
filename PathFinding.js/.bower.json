@@ -1,0 +1,37 @@
+{
+  "name": "PathFinding.js",
+  "main": "./pathfinding-browser.min.js",
+  "version": "0.4.10",
+  "homepage": "http://qiao.github.io/PathFinding.js/visual/",
+  "authors": [
+    "Xueqiao Xu xueqiaoxu@gmail.com"
+  ],
+  "description": "A comprehensive path-finding library for grid based games",
+  "keywords": [
+    "path-finding",
+    "path",
+    "game",
+    "pathfinding",
+    "AStar",
+    "BreadthFirst",
+    "Dijkstra",
+    "JumpPoint"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.4.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.10",
+    "commit": "c7448caee40ef8ab7b4ac18d3a5dc203c7122371"
+  },
+  "_source": "git://github.com/qiao/PathFinding.js.git",
+  "_target": "0.4.10",
+  "_originalSource": "git://github.com/qiao/PathFinding.js.git"
+}

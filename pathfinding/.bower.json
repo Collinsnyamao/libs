@@ -1,0 +1,14 @@
+{
+  "name": "pathfinding",
+  "homepage": "https://github.com/qiao/PathFinding.js",
+  "version": "0.4.16",
+  "_release": "0.4.16",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.16",
+    "commit": "395b61bb0bb350e78ae273a3b4c971f31aca59af"
+  },
+  "_source": "git://github.com/qiao/PathFinding.js.git",
+  "_target": "0.4.16",
+  "_originalSource": "git://github.com/qiao/PathFinding.js.git"
+}

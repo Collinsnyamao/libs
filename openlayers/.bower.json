@@ -1,0 +1,13 @@
+{
+  "name": "openlayers",
+  "homepage": "https://github.com/v5analytics/openlayers",
+  "_release": "36421b9dbb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "36421b9dbbf36dbdfb5c0992e2ce16b7fcf54afd"
+  },
+  "_source": "git://github.com/v5analytics/openlayers.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/v5analytics/openlayers.git"
+}

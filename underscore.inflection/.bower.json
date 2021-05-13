@@ -1,0 +1,22 @@
+{
+  "name": "underscore.inflection",
+  "version": "1.2.1",
+  "dependencies": {
+    "underscore": "~1.8.0"
+  },
+  "main": "lib/underscore.inflection.js",
+  "ignore": [
+    "lib-cov",
+    "test"
+  ],
+  "homepage": "https://github.com/jharwig/underscore.inflection",
+  "_release": "1.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.1",
+    "commit": "cda2a666c47a3afb26244f0c81d6d0c757e04110"
+  },
+  "_source": "git://github.com/jharwig/underscore.inflection.git",
+  "_target": "~1.2.1",
+  "_originalSource": "jharwig/underscore.inflection"
+}

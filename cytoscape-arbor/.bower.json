@@ -1,0 +1,33 @@
+{
+  "name": "cytoscape-arbor",
+  "version": "1.4.1",
+  "description": "The Arbor physics simulation layout for Cytoscape.js",
+  "main": "cytoscape-arbor.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cytoscape/cytoscape.js-arbor.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "cytoscape",
+    "cyext"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cytoscape/cytoscape.js-arbor",
+  "_release": "1.4.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.4.1",
+    "commit": "c2167645a3dde430c69f1d4d8857c777fd405dee"
+  },
+  "_source": "https://github.com/cytoscape/cytoscape.js-arbor.git",
+  "_target": "^1.4.1",
+  "_originalSource": "cytoscape-arbor",
+  "_direct": true
+}

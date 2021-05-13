@@ -1,0 +1,30 @@
+{
+  "name": "Duration.js",
+  "version": "3.4.0",
+  "homepage": "https://github.com/icholy/Duration.js",
+  "authors": [
+    "Ilia Choly <ilia.choly@gmail.com>"
+  ],
+  "typescript": {
+    "definition": "duration.d.ts"
+  },
+  "description": "small simple library for dealing with durations",
+  "main": "duration.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "3.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.4.0",
+    "commit": "b14c67c54f6864a9d5746215b38e53445e823c2c"
+  },
+  "_source": "https://github.com/icholy/Duration.js.git",
+  "_target": "~3.4.0",
+  "_originalSource": "duration.js"
+}

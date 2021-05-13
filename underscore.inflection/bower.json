@@ -1,0 +1,12 @@
+{
+  "name": "underscore.inflection",
+  "version": "1.2.1",
+  "dependencies": {
+    "underscore": "~1.8.0"
+  },
+  "main" : "lib/underscore.inflection.js",
+  "ignore" : [
+    "lib-cov",
+    "test"
+  ]
+}

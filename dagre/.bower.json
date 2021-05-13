@@ -1,0 +1,36 @@
+{
+  "name": "dagre",
+  "version": "0.8.5",
+  "main": [
+    "dist/dagre.core.js"
+  ],
+  "ignore": [
+    ".*",
+    "README.md",
+    "CHANGELOG.md",
+    "Makefile",
+    "browser.js",
+    "dist/dagre.js",
+    "dist/dagre.min.js",
+    "index.js",
+    "karma*",
+    "lib/**",
+    "package.json",
+    "src/**",
+    "test/**"
+  ],
+  "dependencies": {
+    "graphlib": "^2.1.8",
+    "lodash": "^4.17.15"
+  },
+  "homepage": "https://github.com/cpettitt/dagre",
+  "_release": "0.8.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.8.5",
+    "commit": "f56edb1abbb8530e532158f7cbd403228f5b0018"
+  },
+  "_source": "https://github.com/cpettitt/dagre.git",
+  "_target": "^0.8.5",
+  "_originalSource": "dagre"
+}

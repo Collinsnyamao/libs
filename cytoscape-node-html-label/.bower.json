@@ -1,0 +1,36 @@
+{
+  "name": "cytoscape-node-html-label",
+  "description": "labels for cytoscape nodes",
+  "main": "./dist/cytoscape-node-html-label.js",
+  "dependencies": {
+    "cytoscape": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaluginserg/cytoscape-node-html-label.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "cytoscape",
+    "cyext"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kaluginserg/cytoscape-node-html-label",
+  "version": "1.1.2",
+  "_release": "1.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.2",
+    "commit": "513a5ba630013f2e47f6136cbe3a6253ab297adb"
+  },
+  "_source": "https://github.com/kaluginserg/cytoscape-node-html-label.git",
+  "_target": "^1.1.2",
+  "_originalSource": "cytoscape-node-html-label",
+  "_direct": true
+}
